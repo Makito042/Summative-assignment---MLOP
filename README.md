@@ -103,7 +103,7 @@ Create a `.env` file in the root directory:
 
 ```bash
 # Optional: MongoDB connection string
-MONGO_URI=mongodb://localhost:27017/pest_detection
+MONGO_URI={MONGO_URI}
 ```
 
 ### 3️⃣ Installation Options
@@ -159,11 +159,10 @@ streamlit run src/ui.py --server.port 7860
 ### 🎓 Model Retraining
 
 1. Go to the **Retrain Model** tab
-2. Choose whether to **Append** or **Clear** previous training data
+2. Choose whether to **Append**
 3. Upload images organized by pest class folders
-4. Set the number of training epochs
-5. Click **Start Training**
-6. Monitor training progress in real-time
+4. Click **Start Training**
+5. Monitor training progress in real-time
 
 ### 📊 System Monitoring
 
