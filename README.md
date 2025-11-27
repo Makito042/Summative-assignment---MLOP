@@ -14,15 +14,11 @@ An MLOps-powered agricultural pest detection system using a fine-tuned MobileNet
 
 **[Watch the Demo on YouTube](https://youtu.be/4mwo641LSp8)**
 
-> 
-
 ---
 
 ## 🌐 Live Application
 
 **[Access the Live Application](https://huggingface.co/spaces/xcottsnow11/pestdetection)**
-
->
 
 ---
 
@@ -209,22 +205,22 @@ Below are example results from a flood request simulation:
 
 | Metric | Value |
 |--------|-------|
-| Total Requests | 1204 |
-| Requests/sec | 8.2 |
-| Average Response Time | 145 ms |
-| 95th Percentile | 320 ms |
-| 99th Percentile | 580 ms |
+| Total Requests | 23000 |
+| Requests/sec | 19.1 |
+| Average Response Time | 2700 ms |
+| 95th Percentile | 6100 ms |
+| 99th Percentile | 73000 ms |
 | Failure Rate | 0.0% |
 
 #### Results Screenshots
 
 **Locust Dashboard - Statistics View:**
 
-![Locust Statistics](docs/Screenshot%202025-11-27%20at%2016.34.24.jpg)
+![Locust Statistics](docs/Screenshot 2025-11-27 at 21.40.41.png)
 
 **Locust Dashboard - Charts View:**
 
-![Locust Charts](docs/Screenshot%202025-11-27%20at%2016.35.09.png)
+![Locust Charts](docs/Screenshot 2025-11-27 at 17.23.52.png)
 
 #### Scaling Recommendations
 
