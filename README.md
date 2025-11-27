@@ -12,9 +12,9 @@ An MLOps-powered agricultural pest detection system using a fine-tuned MobileNet
 
 ## 📺 Video Demo
 
-**[Watch the Demo on YouTube](YOUR_YOUTUBE_LINK_HERE)**
+**[Watch the Demo on YouTube](https://youtu.be/4mwo641LSp8)**
 
-> 🎥 *Replace `YOUR_YOUTUBE_LINK_HERE` with your actual YouTube video link*
+> 
 
 ---
 
@@ -22,7 +22,7 @@ An MLOps-powered agricultural pest detection system using a fine-tuned MobileNet
 
 **[Access the Live Application](https://huggingface.co/spaces/xcottsnow11/pestdetection)**
 
-> 🔗 *Replace `YOUR_DEPLOYMENT_URL_HERE` with your deployed application URL (e.g., Hugging Face Spaces, AWS, etc.)*
+>
 
 ---
 
