@@ -218,13 +218,13 @@ Below are example results from a flood request simulation:
 
 #### Results Screenshots
 
-**Locust Dashboard - Statistics View:**
+**Locust Dashboard - Charts View**
 
-![Locust Statistics](docs/Screenshot 2025-11-27 at 21.40.41.png)
+![Locust Statistics](docs/Screenshot%202025-11-27%20at%2021.40.41.png)
 
-**Locust Dashboard - Charts View:**
+**Locust Dashboard - Statistics View**
 
-![Locust Charts](docs/Screenshot 2025-11-27 at 17.23.52.png)
+![Locust Charts](docs/Screenshot%202025-11-27%20at%2017.23.35.png)
 
 #### Scaling Recommendations
 
