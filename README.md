@@ -201,7 +201,7 @@ Below are example results from a flood request simulation:
 
 #### Test Configuration
 - **Total Users**: 100 concurrent users
-- **Spawn Rate**: 5 users/second
+- **Spawn Rate**: 10 users/second
 - **Duration**: 10 minutes
 - **Endpoint Tested**: `/predict`
 
@@ -209,24 +209,22 @@ Below are example results from a flood request simulation:
 
 | Metric | Value |
 |--------|-------|
-| Total Requests | 12,450 |
-| Requests/sec | 20.75 |
+| Total Requests | 1204 |
+| Requests/sec | 8.2 |
 | Average Response Time | 145 ms |
 | 95th Percentile | 320 ms |
 | 99th Percentile | 580 ms |
-| Failure Rate | 0.02% |
+| Failure Rate | 0.0% |
 
-#### Results Screenshot
+#### Results Screenshots
 
-> 📸 *Add your Locust test results screenshot here*
-> 
-> To add a screenshot:
-> 1. Run the load test
-> 2. Take a screenshot of the Locust dashboard
-> 3. Save it as `docs/locust_results.png`
-> 4. Uncomment the line below:
+**Locust Dashboard - Statistics View:**
 
-<!-- ![Locust Load Test Results](docs/locust_results.png) -->
+![Locust Statistics](docs/Screenshot%202025-11-27%20at%2016.34.24.jpg)
+
+**Locust Dashboard - Charts View:**
+
+![Locust Charts](docs/Screenshot%202025-11-27%20at%2016.35.09.png)
 
 #### Scaling Recommendations
 
